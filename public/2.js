@@ -1,0 +1,1 @@
+alert("已经将2.js加载到document中")
